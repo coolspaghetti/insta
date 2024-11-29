@@ -1,5 +1,5 @@
 # Instagram Tool
-* using instaloader*
+*using instaloader*
 
 ## What it does so far
 - download captions and save them to a json file

@@ -3,6 +3,7 @@
 
 ## What it does so far
 - download captions and save them to a json file
+- download reels
 
 ## What I want to implement later
 - download stories
